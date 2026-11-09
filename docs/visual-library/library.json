@@ -1,0 +1,4518 @@
+{
+  "name": "Kiddos A–Z Visual Reference Library",
+  "version": 3,
+  "updated": "2026-11-09",
+  "guideline": "CURATION_GUIDELINE.md",
+  "notes": "pinterest_pin_url uses the id returned by Pinterest search; image URLs were downloaded and checked. rights.status is unverified for every reference until the original licence is confirmed.",
+  "references": [
+    {
+      "id": "A-01",
+      "letter": "A",
+      "word": "Apple",
+      "role": "Primary",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/A/A-01-apple.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/41/f9/ca/41f9cabe93b938c520e5d50bfac2f8b0.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Canonical red apple with leaf and water droplets; the benchmark for the whole library.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "A-02",
+      "letter": "A",
+      "word": "Ant",
+      "role": "Alternative",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/A/A-02-ant.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/64/8c/84/648c842f6b75a62fde5ad8eaf00c85ad.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Macro insect in clean side profile; shows small subjects can still fill the frame.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "A-03",
+      "letter": "A",
+      "word": "Airplane",
+      "role": "Exploration",
+      "category": "vehicle",
+      "style": "habitat-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/A/A-03-airplane.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/1a/02/22/1a02223e2ef5a7f69c91b258491b01f0.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Airliner against open sky; adds the first sky/atmosphere treatment.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Shows Emirates livery and logo (R8-BRAND). Replace before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "A-04",
+      "letter": "A",
+      "word": "Astronaut",
+      "role": "Distinctive",
+      "category": "person",
+      "style": "3d-render",
+      "background": "white",
+      "resolution": {
+        "width": 980,
+        "height": 980,
+        "source_width": 980,
+        "source_height": 980,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/A/A-04-astronaut.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/db/14/f2/db14f2acc33ceb1797b84c5fbc783c91.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Premium 3D render of a floating astronaut; the one stylised-but-real piece in A.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "B-01",
+      "letter": "B",
+      "word": "Bear",
+      "role": "Primary",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 640,
+        "height": 640,
+        "source_width": 640,
+        "source_height": 640,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/B/B-01-bear.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/2d/3a/a4/2d3aa45b47fa8df3557c765a77d7183b.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Full-body brown bear, calm three-quarter pose, eye contact.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "B-02",
+      "letter": "B",
+      "word": "Ball",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 980,
+        "height": 980,
+        "source_width": 980,
+        "source_height": 980,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/B/B-02-ball.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/ac/52/ff/ac52ff038a1375463bc139df779b2bf2.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Basketball as a perfect sphere; strong single hue and texture.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "B-03",
+      "letter": "B",
+      "word": "Butterfly",
+      "role": "Distinctive",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/B/B-03-butterfly.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/a8/8c/46/a88c46a9e53bc3c75e3480a6a00a454e.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Symmetrical top-down monarch; flat specimen view is the unusual angle in B.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "B-04",
+      "letter": "B",
+      "word": "Banana",
+      "role": "Exploration",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "source_width": 1080,
+        "source_height": 1080,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/B/B-04-banana.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/02/49/5f/02495fb1b8bd32a24fb8eb483a18a074.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Bunch of bananas; dominant yellow balances the brown bear.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "C-01",
+      "letter": "C",
+      "word": "Cat",
+      "role": "Primary",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/C/C-01-cat.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/c7/bc/ec/c7bcec37805229fedba1d602820e78ae.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Sitting tabby, front view, direct eye contact.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "C-02",
+      "letter": "C",
+      "word": "Car",
+      "role": "Alternative",
+      "category": "vehicle",
+      "style": "studio-photo",
+      "background": "light-neutral",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/C/C-02-car.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/12/65/b3/1265b3fcbb7c43e91c5f5bad92db8ddb.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Red sports car at hero three-quarter angle on light grey.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Recognisable Ferrari with badge (R8-BRAND). Replace before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "C-03",
+      "letter": "C",
+      "word": "Cake",
+      "role": "Distinctive",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "light-neutral",
+      "resolution": {
+        "width": 768,
+        "height": 768,
+        "source_width": 768,
+        "source_height": 768,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/C/C-03-cake.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/57/fc/57/57fc574b313ce58317678e3e1a040c9f.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Chocolate cake from a high angle; texture-rich food still life.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "C-04",
+      "letter": "C",
+      "word": "Cloud",
+      "role": "Exploration",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1098,
+        "source_aspect": 1.093,
+        "native_square": false
+      },
+      "ai_check": "uncertain",
+      "file": "assets/C/C-04-cloud.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/88/02/f0/8802f0979f8b3eb966f6131e5ba38a96.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Single cumulus cloud in blue sky; the subject is the sky itself.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "D-01",
+      "letter": "D",
+      "word": "Dog",
+      "role": "Primary",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/D/D-01-dog.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/9e/3d/b8/9e3db83aef19e412c1b14aec96d4e1c4.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Golden puppy sitting, front-facing; friendliest animal in A–F.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "D-02",
+      "letter": "D",
+      "word": "Duck",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/D/D-02-duck.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/da/de/63/dade631d4c463b50c0c199e82db9214f.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "White duck on grass with flowers; soft habitat background.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "D-03",
+      "letter": "D",
+      "word": "Dolphin",
+      "role": "Distinctive",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/D/D-03-dolphin.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/90/8c/7e/908c7ee45588a0152fed80188ae1f4fd.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Dolphin mid-leap over open ocean; first action pose in the set.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "D-04",
+      "letter": "D",
+      "word": "Drum",
+      "role": "Alternative",
+      "category": "object",
+      "style": "3d-render",
+      "background": "white",
+      "resolution": {
+        "width": 652,
+        "height": 652,
+        "source_width": 650,
+        "source_height": 651,
+        "source_aspect": 0.998,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/D/D-04-drum.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/a0/f1/0e/a0f10e8309c37a3919270d6b9070e2bc.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Red bass drum with sticks; polished 3D object render.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "E-01",
+      "letter": "E",
+      "word": "Elephant",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/E/E-01-elephant.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/89/2c/44/892c44f8bb8d954e8942900eb43ea5b1.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "African elephant walking on savanna; habitat establishes scale.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "E-02",
+      "letter": "E",
+      "word": "Egg",
+      "role": "Distinctive",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/E/E-02-egg.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/b7/9d/60/b79d60513a3129f541ea682c5aaa9a00.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Top-down boiled eggs on a plate; flat-lay angle.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "E-03",
+      "letter": "E",
+      "word": "Eagle",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 960,
+        "height": 960,
+        "source_width": 960,
+        "source_height": 960,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/E/E-03-eagle.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/a7/fc/ae/a7fcaea19e68c284ce74dd210a62f4ed.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Bald eagle perched with wings half-open against sky.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "E-04",
+      "letter": "E",
+      "word": "Earth",
+      "role": "Alternative",
+      "category": "nature",
+      "style": "3d-render",
+      "background": "white",
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "source_width": 1000,
+        "source_height": 1000,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/E/E-04-earth.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/e7/f3/7d/e7f37d17aaf23a49ea7901a59d572f61.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Globe render centred on Africa; space subject treated as an object.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "F-01",
+      "letter": "F",
+      "word": "Fish",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/F/F-01-fish.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/12/db/85/12db857278c11c704d224fb3f7cb04a5.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Clownfish on coral reef; richest colour in the foundation set.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Small \"JIGSAW\" watermark bottom-right (R1-WATERMARK). Replace or crop before release. Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "F-02",
+      "letter": "F",
+      "word": "Frog",
+      "role": "Distinctive",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "source_width": 1080,
+        "source_height": 1080,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/F/F-02-frog.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/3b/ee/c7/3beec7e378c6f84497cb7033f8eb458f.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Green frog front-on, macro, dark pond background.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Looks AI-generated (smooth textures, render-like detail); replace with a real photo before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "F-03",
+      "letter": "F",
+      "word": "Flower",
+      "role": "Primary",
+      "category": "nature",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 980,
+        "height": 980,
+        "source_width": 980,
+        "source_height": 980,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/F/F-03-flower.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/6d/19/90/6d1990c27360ca95c09f3dcfac5d639f.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Single pink rose with leaves; botanical studio shot.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "F-04",
+      "letter": "F",
+      "word": "Fox",
+      "role": "Alternative",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/F/F-04-fox.jpg",
+      "foundation": true,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/e5/4f/0b/e54f0b2da30b0034c31c1e1a062e9271.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Red fox standing in meadow, direct eye contact.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "G-01",
+      "letter": "G",
+      "word": "Giraffe",
+      "role": "Distinctive",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "light-neutral",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/G/G-01-giraffe.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/4a/97/39/4a973925988be279c5801fa53a7fa290.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Full-body giraffe on savanna under blue sky; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/87/4f/83/874f8312c39d72899b40cbbe4f9e67e1.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "G-02",
+      "letter": "G",
+      "word": "Grapes",
+      "role": "Primary",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "source_width": 800,
+        "source_height": 800,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/G/G-02-grapes.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/47/0a/73/470a73ccff8c8b6c1460471a91c1b6f4.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwmI3iQqbcvC1Oae4TaCHPpZR8aW4GWsF0G7iUeVRWSUhN8xw/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.shipt.com/shop/products/1fdb2747-324b-50e4-1fc3-b7638c9441c9",
+        "original_domain": "shipt.com",
+        "search_query": "grapes real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Bunch of red grapes on white; natural bloom on the skins, real produce shot.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "G-03",
+      "letter": "G",
+      "word": "Goat",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/G/G-03-goat.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/53/62/63/536263547ff4c5135ce399df8d5bc2e1.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Two goats grazing in a meadow; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/e8/22/45/e822452f581385ed10b39e359b1ee803.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "G-04",
+      "letter": "G",
+      "word": "Guitar",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/G/G-04-guitar.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/2c/a5/ed/2ca5ed43e7e50b61135081d74617e904.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzd1xrg6gghHGgePEZtTLk45yz-S0XAaabWZw96ZMtUjnY7/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "guitar real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Acoustic guitar product photo; real wood grain and reflections.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Small maker logo on headstock. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "H-01",
+      "letter": "H",
+      "word": "Horse",
+      "role": "Primary",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 2048,
+        "height": 2048,
+        "source_width": 2048,
+        "source_height": 2048,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/H/H-01-horse.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/01/a5/26/01a526f872bcce1fb714f9b9c6c890bf.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Chestnut horse galloping across a field; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/ff/e4/c6/ffe4c68b79b4764bb82ebc443f932029.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "H-02",
+      "letter": "H",
+      "word": "House",
+      "role": "Distinctive",
+      "category": "place",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/H/H-02-house.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/e6/59/4d/e6594d6974f547b7bec0cc99b31f2a16.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzny4Jwi2C3drtw9gpgwtsyPJLoRkucA50h0uDQL1dudtdX2w/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.lummi.ai/photo/charming-floral-house-np4b4",
+        "original_domain": "lummi.ai",
+        "search_query": "house photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Tiled Portuguese cottage under blue sky; flat frontal view reads like a child's drawing of a house.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "H-03",
+      "letter": "H",
+      "word": "Hat",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 2400,
+        "height": 2400,
+        "source_width": 2400,
+        "source_height": 2729,
+        "source_aspect": 0.879,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/H/H-03-hat.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/db/08/f2/db08f219627401a20bc17e3f8a16d520.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Brown felt fedora on white; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/34/e3/a0/34e3a0215fa097a6a0ff047c8a8b1f72.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "H-04",
+      "letter": "H",
+      "word": "Hippo",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 1172,
+        "height": 1172,
+        "source_width": 1199,
+        "source_height": 1172,
+        "source_aspect": 1.023,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/H/H-04-hippo.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/d9/8b/c8/d98bc8848cf1944d66a55afb26cc8687.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxVbkqQIFrYPxj6GEvYhktKiilLx54Rn8RNI0qid_QnqjSV/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "hippo photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Hippo swimming with only head and back above water; how hippos are actually seen.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "I-01",
+      "letter": "I",
+      "word": "Ice Cream",
+      "role": "Alternative",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/I/I-01-ice-cream.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/4e/3b/30/4e3b300ea3140a08384264c1bbc00721.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwn8MtKcAky-N6QX-ifWWcZbbOKmGKlrfWyMb-9nbz9mu1r/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "ice cream real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Bowl of ice-cream scoops with cherries and chocolate, top-down.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "I-02",
+      "letter": "I",
+      "word": "Igloo",
+      "role": "Exploration",
+      "category": "place",
+      "style": "scene-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "source_width": 800,
+        "source_height": 800,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/I/I-02-igloo.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/ba/98/35/ba98353136f31629ceb6bf9cdbd8a409.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Snow igloo under a clear sky; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/04/a8/f4/04a8f4a318f9067eaa1bf34b54038d1d.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "I-03",
+      "letter": "I",
+      "word": "Iguana",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "source_width": 1000,
+        "source_height": 1000,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/I/I-03-iguana.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/6c/46/6b/6c466bc1543550c360aee964c6427786.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShy4iOZ8xjdisIE4EsfRZ4aYBFF4xsPtyQeyxzp4vtny8DHY/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "http://jseverydayfashion.com/home/2015/10/2/todays-everyday-fashion",
+        "original_domain": "jseverydayfashion.com",
+        "search_query": "iguana photo unsplash",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Green iguana on beach sand, head raised; sharp scales and spines.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "I-04",
+      "letter": "I",
+      "word": "Island",
+      "role": "Distinctive",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "water",
+      "resolution": {
+        "width": 980,
+        "height": 980,
+        "source_width": 980,
+        "source_height": 980,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/I/I-04-island.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/d9/6a/9a/d96a9a9ed96a57d332efb0655f7ef549.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Aerial view of a green island in turquoise sea; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/be/5f/4c/be5f4caec1149c307374deb23f2832a7.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "J-01",
+      "letter": "J",
+      "word": "Jellyfish",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "dark",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1600,
+        "source_aspect": 0.75,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/J/J-01-jellyfish.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/0f/18/12/0f1812a5cd4fd19f5544247ac429a485.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShy2DwaggWnXUQICotGSc7pJbTQqAFji0XxruXwoj47LC4Ku6A/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "jellyfish aquarium photography flickr",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Moon jellyfish glowing blue in an aquarium tank.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "J-02",
+      "letter": "J",
+      "word": "Juice",
+      "role": "Alternative",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/J/J-02-juice.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/df/0a/e0/df0ae03f96c175873b1993449fbf8e0f.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Glass of watermelon juice with mint and watermelon slices; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "No watermark or AI mark visible; very polished, so AI origin cannot be ruled out. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/ae/13/6d/ae136dfbe80317bcd1bd5b0b027eba38.jpg",
+          "reason": "Owner supplied a replacement"
+        },
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/16/fd/1d/16fd1d68c3f8c9703fc28a8cf211601a.jpg",
+          "reason": "Owner replaced AI-marked juice image"
+        }
+      ]
+    },
+    {
+      "id": "J-03",
+      "letter": "J",
+      "word": "Jump",
+      "role": "Distinctive",
+      "category": "concept",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 640,
+        "height": 640,
+        "source_width": 640,
+        "source_height": 640,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/J/J-03-jump.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/f1/0a/f5/f10af5d32bb86ab037e8ba23246063fa.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxIZTXF3R2zkqFMKqhHAdukEZztKCor8l33lA0bstLVr1zj/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "child jumping photo unsplash",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Boy mid-jump against blue sky, thumbs up; the action word as one joyful moment.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Identifiable child (R7 risk). Confirm a model release or replace with licensed stock before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "J-04",
+      "letter": "J",
+      "word": "Jaguar",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "source_width": 800,
+        "source_height": 1000,
+        "source_aspect": 0.8,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/J/J-04-jaguar.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/28/48/32/284832ebe6199675cc60faa62973bd73.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzrWY2mBi343xK4tNspsC--1z9G4lNrPRHvIj15R4aZtu52/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "jaguar wildlife photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Jaguar sitting in rainforest, facing camera; rosettes clearly visible.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Cropped from a portrait frame, keeping the head. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "K-01",
+      "letter": "K",
+      "word": "Kangaroo",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1162,
+        "height": 1162,
+        "source_width": 1200,
+        "source_height": 1162,
+        "source_aspect": 1.033,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/K/K-01-kangaroo.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/42/8e/51/428e5136ba983cc6c431fb76570ed534.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzMI5ez9VATjNU_QIJDhuaWY0578nYhtrVeoRlQLUEwE9aI/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "kangaroo photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Red kangaroo mid-hop over outback scrub; the defining kangaroo motion.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "K-02",
+      "letter": "K",
+      "word": "Kite",
+      "role": "Distinctive",
+      "category": "object",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "source_width": 1000,
+        "source_height": 1000,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/K/K-02-kite.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/fc/e6/9c/fce69c642647a84f4702ac3017573dba.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Child's hand flying a rainbow kite on a beach; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/ff/b2/d4/ffb2d41ef9e774aa02216a4c30367ddd.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "K-03",
+      "letter": "K",
+      "word": "Koala",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 960,
+        "height": 960,
+        "source_width": 960,
+        "source_height": 960,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/K/K-03-koala.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/81/eb/f2/81ebf20c2b80d56079775c845161eb5a.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwiIpBMFWyxbhZC5STLF700msjQ4QPx_EiDPIuJslvm5Ds/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "koala real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Koala eating eucalyptus leaves on a log; real behaviour in habitat.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "K-04",
+      "letter": "K",
+      "word": "King",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 640,
+        "height": 640,
+        "source_width": 640,
+        "source_height": 640,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/K/K-04-king.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/23/dd/30/23dd30e8989300e084196a1dcf1f28c5.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxv2KWGAwPrZ0jOwGLXoV1d9HjC2HdXGYcvJUfyUHyr0J_V/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://pixabay.com/illustrations/chess-figure-king-white-chess-board-3413412/",
+        "original_domain": "pixabay.com",
+        "search_query": "king chess piece real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "White chess king piece; the cross-topped crown makes \"king\" unambiguous without a real person.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "L-01",
+      "letter": "L",
+      "word": "Lion",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 768,
+        "height": 768,
+        "source_width": 1024,
+        "source_height": 768,
+        "source_aspect": 1.333,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/L/L-01-lion.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/61/96/b9/6196b9e42cd69ca30a3f5875e65591b0.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxTf0yKEBgTgoGkOM6nKCTeh-GocAtdsOjLdpKoyI3sVAnA/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.flickr.com/photos/day1953/14263813417/",
+        "original_domain": "flickr.com",
+        "search_query": "male lion photo safari",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Male lion lying in grass, looking straight at camera; full mane, calm.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Landscape source cropped to square. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "L-02",
+      "letter": "L",
+      "word": "Lemon",
+      "role": "Alternative",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/L/L-02-lemon.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/69/c9/5d/69c95d98af6f8713abf583df4d18f979.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Pile of whole and halved lemons in warm yellow light; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/7c/c4/3b/7cc43b4a62c43c88d4032657422e177c.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "L-03",
+      "letter": "L",
+      "word": "Leaf",
+      "role": "Distinctive",
+      "category": "nature",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/L/L-03-leaf.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/19/6d/82/196d82152206daf2332d71f20bc1f3d3.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwVQ-cCgjJ6DanP21ADmyJXVggxxyWFwYYtTUkfhfPYrLqCNg/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://app.notion.com/p/25-Beautiful-Maple-Leaf-SVG-Designs-for-Fall-Crafts-and-Canadian-Pride-3be085b340bf81cb89dbf14c4cefcf19?realistic-maple-leaf-png-svg-for-fall-autumn-crafts-sublimation-and-decor",
+        "original_domain": "app.notion.com",
+        "search_query": "leaf real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Orange maple leaf with every vein visible; autumn colour adds warmth to L.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "L-04",
+      "letter": "L",
+      "word": "Lamp",
+      "role": "Exploration",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/L/L-04-lamp.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/69/53/68/6953683ab8b53b518d568c2e990d9acb.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Table lamp glowing in a dark room; shows what a lamp does; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/2b/c0/b7/2bc0b76ea8319a3824856be420564bb3.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "M-01",
+      "letter": "M",
+      "word": "Monkey",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 1104,
+        "source_aspect": 0.667,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/M/M-01-monkey.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/2f/23/5c/2f235c6cb359b73df385d483c79aa0b9.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Young macaque sitting on a branch; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Owner gave the same URL for Monkey and Milk; it shows a monkey, so it is used for Monkey only. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/f8/3b/0a/f83b0a5f9b576144d7e6c8f1bb9aa3ee.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "M-02",
+      "letter": "M",
+      "word": "Moon",
+      "role": "Exploration",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "dark",
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "source_width": 1000,
+        "source_height": 1000,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/M/M-02-moon.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/18/4e/27/184e27d95259e2bc8afabf6fa1241858.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwRKto2V_jU7Q7NncuNWIjMAGhMmSiiqQSERrD1ggYLaymk/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.rawpixel.com/image/440105/free-photo-image-moon-full-nasa?utm_source=pinterest",
+        "original_domain": "rawpixel.com",
+        "search_query": "full moon photo unsplash",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Full moon on black; real lunar photograph with crater detail.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "M-03",
+      "letter": "M",
+      "word": "Milk",
+      "role": "Alternative",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 640,
+        "height": 640,
+        "source_width": 640,
+        "source_height": 640,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/M/M-03-milk.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/79/81/eb/7981ebddff2991fd734b6390a58daeb1.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Milk bottle on a farm table with cows grazing behind; tells where milk comes from; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Bottle-on-table-with-cows composite; may be AI-made. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/e5/ba/29/e5ba294a38587af0ae78b8a7776889a3.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "M-04",
+      "letter": "M",
+      "word": "Mouse",
+      "role": "Distinctive",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/M/M-04-mouse.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/ee/82/ab/ee82ab109cce266d247e1ed971983524.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Mouse mid-leap on white; lively action pose; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Owner labelled this \"Rat\"; the app has no Rat word and the image shows a mouse, so it fills the Mouse slot. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/ac/3c/ca/ac3cca738550b6cc3a491e2d812433a8.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "N-01",
+      "letter": "N",
+      "word": "Nest",
+      "role": "Primary",
+      "category": "nature",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 634,
+        "height": 634,
+        "source_width": 634,
+        "source_height": 635,
+        "source_aspect": 0.998,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/N/N-01-nest.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/26/09/6a/26096ac0c7a85d16ec9945a0b5552350.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShx5DplAoQmfK9fNYMPVKPqURs-HeZrujkFm67bKLcUzWmdh/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "nest real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Grass nest holding speckled quail eggs, top-down.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "N-02",
+      "letter": "N",
+      "word": "Notebook",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1152,
+        "height": 1152,
+        "source_width": 1199,
+        "source_height": 1152,
+        "source_aspect": 1.041,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/N/N-02-notebook.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/b7/76/31/b77631216bac27bc60990bfe2df358ce.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShyh7M2UJmNO_3r3JURV4bI_-kinva_XznhOjowpZ_m8aFTY/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "notebook real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Used spiral notepad with a pen; real, slightly worn paper.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "N-03",
+      "letter": "N",
+      "word": "Nose",
+      "role": "Distinctive",
+      "category": "concept",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1536,
+        "source_aspect": 0.667,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/N/N-03-nose.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/77/43/18/7743188c32a4c9ef9575b6a55024a8f3.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Close-up of a human nose; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Close-up of an adult nose; face not identifiable, so release risk is low. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/db/86/cf/db86cfac9faa7b3fb86d8ecef566f46e.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "N-04",
+      "letter": "N",
+      "word": "Nurse",
+      "role": "Exploration",
+      "category": "person",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 724,
+        "height": 724,
+        "source_width": 725,
+        "source_height": 725,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/N/N-04-nurse.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/8d/ff/cf/8dffcf32866630cb16d33d3d12bd7b69.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Nurse in scrubs and mask preparing an IV drip; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Adult, masked; low release risk but confirm source. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/a2/09/7d/a2097d18300e3110a9a6722c5427d423.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "O-01",
+      "letter": "O",
+      "word": "Orange",
+      "role": "Primary",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1010,
+        "height": 1010,
+        "source_width": 1011,
+        "source_height": 1024,
+        "source_aspect": 0.987,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/O/O-01-orange.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/31/43/a3/3143a3fea62e18a6bc90861976ff8e83.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzueLNRtThISjnkKAWrgHrlPWCyV2ukJQJT-eY2JnM622jldw/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "orange real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Whole and cut oranges with leaves; shows inside and outside.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "O-02",
+      "letter": "O",
+      "word": "Owl",
+      "role": "Alternative",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 570,
+        "height": 570,
+        "source_width": 571,
+        "source_height": 800,
+        "source_aspect": 0.714,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/O/O-02-owl.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/3c/52/e1/3c52e184002fdecf31bbd4e9d74cc4d8.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Little owl perched on a post, staring at camera; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Source is 571×800; square crop is 570 px, below the 600 px minimum. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/a4/87/fb/a487fb10f21e9ed87c61c5dc42fd9d97.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "O-03",
+      "letter": "O",
+      "word": "Octopus",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/O/O-03-octopus.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/3e/e2/ff/3ee2ffc038466bff087944b37e08c658.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwnV1PP5vlCo-G7UGctoW0nCk60AyntUPqvXKsRyIhDOoIn1A/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://uquiz.com/quiz/KR4wGa/what%E2%80%99s-your-aquatic-animal?p=10626573",
+        "original_domain": "uquiz.com",
+        "search_query": "octopus photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Octopus spread across the sandy seabed, tentacles curled.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "O-04",
+      "letter": "O",
+      "word": "Ocean",
+      "role": "Distinctive",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "water",
+      "resolution": {
+        "width": 960,
+        "height": 960,
+        "source_width": 960,
+        "source_height": 960,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/O/O-04-ocean.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/30/76/50/307650d53415bfaf16b4f087a51bf3e2.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShz3_eC8ic-RJAdPk6Zk_uShAvoGKHBGgGau5CjVlqnzEQpL/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "calm blue ocean horizon photo",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Deep-blue open sea under a bright sky; the subject is the water itself.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "P-01",
+      "letter": "P",
+      "word": "Penguin",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 666,
+        "height": 666,
+        "source_width": 667,
+        "source_height": 669,
+        "source_aspect": 0.997,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/P/P-01-penguin.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/b2/a2/4b/b2a24b604134c5a71e416d66437f15c3.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwhDn1Cs_8oZHsZX3eFD2tRv8JKwqfWKkqxghIWjeraMIH2/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "penguin real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Emperor penguin standing on Antarctic ice under clear sky.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "P-02",
+      "letter": "P",
+      "word": "Panda",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/P/P-02-panda.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/3e/d8/f1/3ed8f12f6303572a3fb2cc6589c6ba63.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwAtUr1kPIipTGlFRR5o1f0dsWu70j4Vwy9jAXf4aRXpSDN9w/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "panda photo unsplash",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Young giant panda climbing a tree fork in forest.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "P-03",
+      "letter": "P",
+      "word": "Piano",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "light-neutral",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/P/P-03-piano.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/14/e1/d2/14e1d2398be1fe5d162157aeaf7bc4a3.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShyfUXA0dseVAnu7t0itm95q1pvaO1yfJMePPjQhqSSJiupV/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "piano real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Wooden upright piano with bench; the piano most children actually see at home or school.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "P-04",
+      "letter": "P",
+      "word": "Pizza",
+      "role": "Distinctive",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 626,
+        "height": 626,
+        "source_width": 626,
+        "source_height": 626,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/P/P-04-pizza.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/c8/97/be/c897be81651392def560b093d291e767.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxoaeIx2EiRbKpGCXGBA6HsGUHFhdv5y0rmEp3ilL4Z9oAk/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "pizza real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Whole loaded pizza top-down; flat-lay fills the square.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Q-01",
+      "letter": "Q",
+      "word": "Queen",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/Q/Q-01-queen.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/e0/78/3c/e0783c834766ee462f1ee8670b620f3f.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShyP4DUPNb5pwuMjRsILJAcWHTZjEBrThAu_2A4uGaU4Fb_F/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "queen crown real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Gold jewelled crown on white; stands for \"queen\" without using a real person.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Crown is shared imagery with royalty generally; pairs with the chess King. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Q-02",
+      "letter": "Q",
+      "word": "Quilt",
+      "role": "Distinctive",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "source_width": 1080,
+        "source_height": 1080,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Q/Q-02-quilt.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/77/91/95/779195b45a2ad922c7f54cc411d8c6bc.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzE2QLAoOcCNZzCF0GvD6Jccc7lToxLbGTkGqjv3623j3dY/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.instagram.com/p/CMhCT7ynLlj/",
+        "original_domain": "instagram.com",
+        "search_query": "quilt real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Hand-stitched star quilt hung flat; flat-lay shows the whole pattern.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Q-03",
+      "letter": "Q",
+      "word": "Quokka",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 640,
+        "height": 640,
+        "source_width": 640,
+        "source_height": 640,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Q/Q-03-quokka.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/36/5e/ad/365ead67194337fe76feac443c3df8f6.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxaA4GwO8Qbm4hU59F5cieT-RBqEBhZkQdK81iPy6NZbckc/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.instagram.com/p/B3dpaObA8iO/?utm_source=ig_web_button_native_share",
+        "original_domain": "instagram.com",
+        "search_query": "quokka photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Quokka standing on sand looking up into the lens; its famous smile.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Q-04",
+      "letter": "Q",
+      "word": "Quartz",
+      "role": "Exploration",
+      "category": "nature",
+      "style": "studio-photo",
+      "background": "dark",
+      "resolution": {
+        "width": 988,
+        "height": 988,
+        "source_width": 989,
+        "source_height": 1024,
+        "source_aspect": 0.966,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Q/Q-04-quartz.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/bb/8f/50/bb8f50cf06f0748c5fbbb5096cd228e7.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShw1EB65isNzfe-H6zFpmO0MlD8Ae6ZRo3MqMPw1A55tNjU/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "http://beautiful-minerals.tumblr.com/image/62671853226",
+        "original_domain": "beautiful-minerals.tumblr.com",
+        "search_query": "quartz real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Clear quartz crystal cluster on black; light catches every facet.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "R-01",
+      "letter": "R",
+      "word": "Rabbit",
+      "role": "Primary",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 962,
+        "height": 962,
+        "source_width": 1000,
+        "source_height": 963,
+        "source_aspect": 1.038,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/R/R-01-rabbit.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/69/6c/b6/696cb655a4eb64f8809625b1ac6555c0.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShx85ciVh-RcLjZNxksm-LZjDG-U99koM6laIQp1ZjMFsnCP/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.collinsdictionary.com/images/full/rabbit_274039655.jpg",
+        "original_domain": "collinsdictionary.com",
+        "search_query": "rabbit real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Fawn rabbit sitting upright, ears up, on white.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "R-02",
+      "letter": "R",
+      "word": "Rocket",
+      "role": "Distinctive",
+      "category": "vehicle",
+      "style": "scene-photo",
+      "background": "dark",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/R/R-02-rocket.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/9e/15/22/9e1522b4d8fa5fbe65bf215912e50ee1.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Rocket launch over water at dusk; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Shows a Gemini sparkle mark bottom-right, so it is AI-generated. Kept as owner choice; replace before release. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/8c/ff/a4/8cffa4e53f228924253fc3fd3b13f313.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "R-03",
+      "letter": "R",
+      "word": "Rainbow",
+      "role": "Exploration",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/R/R-03-rainbow.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/77/ea/87/77ea87838082d2a1239dfc94a7447339.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Rainbow arcing over white clouds; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/36/3d/e0/363de0dad08c1d964258ac99ae3cf482.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "R-04",
+      "letter": "R",
+      "word": "Robot",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/R/R-04-robot.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/90/14/8b/90148b1b63782c7776b58b9ba2f30f8c.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzTQchC0qYkY06ESLl8D-EvCyTcPg6gwPgSxdQqv49AiA_m/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "toy robot real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Real white-and-blue toy robot product shot.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "S-01",
+      "letter": "S",
+      "word": "Sun",
+      "role": "Distinctive",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 958,
+        "height": 958,
+        "source_width": 960,
+        "source_height": 958,
+        "source_aspect": 1.002,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/S/S-01-sun.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/63/64/df/6364df3fd7b4ec9c7ef0ea3cd431a513.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Bright sun disc in an orange sky; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/d9/79/41/d97941aba22210183f3c0abfdd1f7bad.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "S-02",
+      "letter": "S",
+      "word": "Snake",
+      "role": "Primary",
+      "category": "animal",
+      "style": "studio-photo",
+      "background": "light-neutral",
+      "resolution": {
+        "width": 600,
+        "height": 600,
+        "source_width": 600,
+        "source_height": 600,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/S/S-02-snake.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/4e/e2/dd/4ee2dda6b95893291ba572aec99055af.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShybjAISmsKzVWHPd0hvK5WaLpgcgU6y6lB9TyIfmT__LlQUyg/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://randomwhispers.com/gift-ideas-snake-lovers/",
+        "original_domain": "randomwhispers.com",
+        "search_query": "snake real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Coiled milk snake with red, black and cream bands; vivid and calm.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "S-03",
+      "letter": "S",
+      "word": "Star",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "source_width": 1080,
+        "source_height": 1080,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/S/S-03-star.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/c8/f6/a7/c8f6a78856b1831a466b13af5bfe50e1.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Single bright star in a starry night sky; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/7b/ac/8c/7bac8ce4a0a1f38fc359f5714e4e6116.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "S-04",
+      "letter": "S",
+      "word": "Ship",
+      "role": "Exploration",
+      "category": "vehicle",
+      "style": "scene-photo",
+      "background": "water",
+      "resolution": {
+        "width": 960,
+        "height": 960,
+        "source_width": 960,
+        "source_height": 960,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/S/S-04-ship.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/7a/44/5c/7a445c7a7d73582b710ed791ee272266.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShygt0aLG8zsuIQvWeVpzXqbc-zIhtxbD96nqwnnD_aUp90_/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://www.cruiseshipcenters.com/en-US/corporate/cruise-lines/Holland-America-Line",
+        "original_domain": "cruiseshipcenters.com",
+        "search_query": "ship photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Cruise ship under way on open sea, aerial view.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "T-01",
+      "letter": "T",
+      "word": "Tiger",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 900,
+        "height": 900,
+        "source_width": 1200,
+        "source_height": 900,
+        "source_aspect": 1.333,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/T/T-01-tiger.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/d9/07/ec/d907ec461fbfa0f172a1098a0d9e9324.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShym1evrgCy3ckKwmEJ0B0ciytcjFGTlKDoPy39tw1mKcw/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "tiger photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Bengal tiger lying on sand, facing camera.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Landscape source cropped to square. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "T-02",
+      "letter": "T",
+      "word": "Train",
+      "role": "Alternative",
+      "category": "vehicle",
+      "style": "scene-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 981,
+        "source_aspect": 0.75,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/T/T-02-train.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/9e/3e/aa/9e3eaaf8fd77798c5800817051fc938a.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Modern train at a station platform; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/1c/27/ee/1c27eef3903498030df4ad777e6d21ee.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "T-03",
+      "letter": "T",
+      "word": "Tree",
+      "role": "Exploration",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "sky",
+      "resolution": {
+        "width": 430,
+        "height": 430,
+        "source_width": 430,
+        "source_height": 430,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/T/T-03-tree.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/2f/7e/50/2f7e50386cc508b27e0a5f157ff9ae49.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Single broad oak in a green field; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Source is only 430 px, below the 600 px minimum. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/7d/06/a3/7d06a3f837d07afd1ad0cc5632ee80f2.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "T-04",
+      "letter": "T",
+      "word": "Turtle",
+      "role": "Distinctive",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/T/T-04-turtle.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/f5/17/17/f51717e82f1e4e0e45fc3cee2c0c0a60.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShwctv_8dg-TtnQ_zEL3lkyL-1i6D0--Hgr6gMXTdUpfWwvOnw/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": "https://puzzlefree.game/puzzles/majestic-sea-turtle-underwater",
+        "original_domain": "puzzlefree.game",
+        "search_query": "turtle photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Green sea turtle swimming over coral reef.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "U-01",
+      "letter": "U",
+      "word": "Umbrella",
+      "role": "Primary",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 624,
+        "height": 624,
+        "source_width": 625,
+        "source_height": 625,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/U/U-01-umbrella.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/3d/51/16/3d5116f60dd7706bf4cc96fb38896ef6.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Open yellow umbrella on light grey; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/2b/69/b8/2b69b8562ee6379c595b209fbf7a8e9e.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "U-02",
+      "letter": "U",
+      "word": "Unicorn",
+      "role": "Distinctive",
+      "category": "concept",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/U/U-02-unicorn.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/00/9d/ab/009dab26d1d5c0c9afa5114395cb34c4.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "White unicorn walking on a meadow; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Photoreal unicorn horse is necessarily AI-generated or edited. Kept as owner choice. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/2d/59/38/2d593895525399acbc78d9f602887eb5.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "U-03",
+      "letter": "U",
+      "word": "Urchin",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 378,
+        "height": 378,
+        "source_width": 655,
+        "source_height": 379,
+        "source_aspect": 1.728,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/U/U-03-urchin.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/62/7e/16/627e1694647e62ec6a4fb116d8a1f99b.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Sea urchin on the seabed underwater; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Source is 655×379; square crop is 379 px, below the 600 px minimum. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/36/96/46/369646757dc5cb8af0cc7dd2ee190a67.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "U-04",
+      "letter": "U",
+      "word": "Utensils",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 710,
+        "height": 710,
+        "source_width": 710,
+        "source_height": 710,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/U/U-04-utensils.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/b2/77/8e/b2778ecf72c3f3ac622b1256f86b88c2.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Wooden kitchen utensils laid out on white; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/34/32/9c/34329c918a36925ee6a6069f8a3c7ef7.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "V-01",
+      "letter": "V",
+      "word": "Van",
+      "role": "Exploration",
+      "category": "vehicle",
+      "style": "scene-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/V/V-01-van.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/3a/c9/f9/3ac9f986d7532365a75b4d2e1544adce.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "White passenger van on light grey; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/74/99/29/7499299891a54bdacfb7cd640de5159b.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "V-02",
+      "letter": "V",
+      "word": "Violin",
+      "role": "Primary",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1096,
+        "height": 1096,
+        "source_width": 1096,
+        "source_height": 1096,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/V/V-02-violin.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/ee/f2/5f/eef25febefceb09ebc7bc4f0ea917d9f.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxlvavhD9RzvWcce473s2LsvfBJoTckgwOOI9OAeHn-1cDirQ/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "violin real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Violin with bow, upright, on white.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "V-03",
+      "letter": "V",
+      "word": "Vase",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 626,
+        "height": 626,
+        "source_width": 626,
+        "source_height": 626,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/V/V-03-vase.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/eb/d9/f3/ebd9f37e86753ee19842d537357fb29d.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Two vases with tulips on a peach wall; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/b3/27/8e/b3278ef704db8ed3e13508af48a65094.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "V-04",
+      "letter": "V",
+      "word": "Volcano",
+      "role": "Distinctive",
+      "category": "nature",
+      "style": "scene-photo",
+      "background": "water",
+      "resolution": {
+        "width": 1088,
+        "height": 1088,
+        "source_width": 1088,
+        "source_height": 1664,
+        "source_aspect": 0.654,
+        "native_square": false
+      },
+      "ai_check": "uncertain",
+      "file": "assets/V/V-04-volcano.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/originals/64/05/7f/64057f42bb939eeae5d7741c82249c09.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Erupting volcano with ash plume and lava; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/af/f0/a0/aff0a04f6f974073ec9f99e3272b6a17.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "W-01",
+      "letter": "W",
+      "word": "Whale",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "water",
+      "resolution": {
+        "width": 960,
+        "height": 960,
+        "source_width": 960,
+        "source_height": 960,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/W/W-01-whale.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/22/cb/2a/22cb2a31b54168c20d2a4642524795df.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShyr6pi2k7JLRt8ep4FjhIvwINJD1KYltF-M0xWFEBAoCzj5/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "whale photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Humpback whale gliding through deep blue water.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "W-02",
+      "letter": "W",
+      "word": "Water",
+      "role": "Distinctive",
+      "category": "nature",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1203,
+        "source_aspect": 0.998,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/W/W-02-water.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/90/d0/7e/90d07e7fbaf00e9f8673ab987cf84a8f.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Glass of water on a sunlit wooden table; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/0c/80/56/0c8056201f755ae280272c2d1e480ffb.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "W-03",
+      "letter": "W",
+      "word": "Watch",
+      "role": "Alternative",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1440,
+        "source_aspect": 0.833,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/W/W-03-watch.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/b3/69/d5/b369d5546f9481a9ab2a47b0954c02ee.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Steel watch worn on a wrist; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Casio brand visible on dial. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/f9/42/62/f94262dd0ab648bd7e4b943d1fbeeef7.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "W-04",
+      "letter": "W",
+      "word": "Wolf",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1000,
+        "height": 1000,
+        "source_width": 1000,
+        "source_height": 1334,
+        "source_aspect": 0.75,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/W/W-04-wolf.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/b6/27/2b/b6272b8aee14ea82f79b0369eaa35716.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Grey wolf standing in snowy forest; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/9d/e6/03/9de603fb3926e34e54654f3550e57f0d.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "X-01",
+      "letter": "X",
+      "word": "Xylophone",
+      "role": "Primary",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "source_width": 800,
+        "source_height": 800,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/X/X-01-xylophone.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/48/5d/28/485d288d66b4348d81f2396cba15934a.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Rainbow xylophone with mallet on white; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/1e/69/10/1e691083d792ebaaa238e6548477fbce.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "X-02",
+      "letter": "X",
+      "word": "X-Ray",
+      "role": "Distinctive",
+      "category": "concept",
+      "style": "studio-photo",
+      "background": "dark",
+      "resolution": {
+        "width": 598,
+        "height": 598,
+        "source_width": 598,
+        "source_height": 720,
+        "source_aspect": 0.831,
+        "native_square": false
+      },
+      "ai_check": "likely-real",
+      "file": "assets/X/X-02-x-ray.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/dc/8a/8a/dc8a8a61cc93afd7cef500f12c8f8d3b.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Hand X-ray on black; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Source is 598×720; square crop is 598 px, just under the 600 px minimum. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/d6/cb/ca/d6cbca10e6ecfd6ed335b7f9f4de238b.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "X-03",
+      "letter": "X",
+      "word": "X-Mas",
+      "role": "Alternative",
+      "category": "concept",
+      "style": "scene-photo",
+      "background": "dark",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/X/X-03-x-mas.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/7d/8a/75/7d8a757caecc04ad5e1071a71bbdcb9b.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Decorated Christmas tree with presents on white; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/15/f4/3e/15f43e5c70a2c7d6fb1e2bae8c059393.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "X-04",
+      "letter": "X",
+      "word": "Xerus",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "source_width": 1080,
+        "source_height": 1080,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/X/X-04-xerus.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/a1/57/07/a157070bb8a31df4c1e967f79a667630.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Cape ground squirrel on sand, tail curled; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/71/90/5d/71905d3f1ca91f2c108dac584b42aa5c.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "Y-01",
+      "letter": "Y",
+      "word": "Yak",
+      "role": "Exploration",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Y/Y-01-yak.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/99/be/33/99be33a89d6a6d8c127ab77c9a8153f5.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Yak standing on a snowy glacier; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/d5/75/55/d575559a57c5cf029356c2a958d834d9.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "Y-02",
+      "letter": "Y",
+      "word": "Yacht",
+      "role": "Alternative",
+      "category": "vehicle",
+      "style": "scene-photo",
+      "background": "water",
+      "resolution": {
+        "width": 736,
+        "height": 736,
+        "source_width": 736,
+        "source_height": 736,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "uncertain",
+      "file": "assets/Y/Y-02-yacht.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/12/c3/bd/12c3bd40f258d82455ee11e50b9e68e3.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "White superyacht on turquoise water; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/5a/48/1a/5a481ab68b42b16e52e106016ea6105d.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "Y-03",
+      "letter": "Y",
+      "word": "Yellow",
+      "role": "Distinctive",
+      "category": "concept",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 512,
+        "height": 512,
+        "source_width": 512,
+        "source_height": 679,
+        "source_aspect": 0.754,
+        "native_square": false
+      },
+      "ai_check": "uncertain",
+      "file": "assets/Y/Y-03-yellow.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/736x/bf/ed/2d/bfed2dd4cd7accfab3635e7b8ab0cd24.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "All-yellow room with yellow sofa; colour shown as a whole space; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Small \"HD\" badge top-right removed by the square crop. Source is 512 px, below the 600 px minimum. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/cb/be/f8/cbbef8d85a873aa039338a2dc531163c.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "Y-04",
+      "letter": "Y",
+      "word": "Yogurt",
+      "role": "Primary",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 1198,
+        "height": 1198,
+        "source_width": 1200,
+        "source_height": 1199,
+        "source_aspect": 1.001,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Y/Y-04-yogurt.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/87/f1/8e/87f18e24525756c9316df607172ab1f5.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxVS3U-4Dkt2GI0hX7XDYHN0JGpSACoUUBAshkqq3lR3zeO/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "yogurt real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Bowl of plain yogurt in a brown ceramic bowl.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Z-01",
+      "letter": "Z",
+      "word": "Zebra",
+      "role": "Primary",
+      "category": "animal",
+      "style": "habitat-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1200,
+        "height": 1200,
+        "source_width": 1200,
+        "source_height": 1200,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Z/Z-01-zebra.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/73/2c/00/732c0081e100f2467cf6952d5f7f4a19.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShxjqPtXPMYnL5C8mSlYVOf9e3LtCH9DZhmwfbiHBBtaHNyQ/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "zebra photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Plains zebra standing in bush; stripes crisp in sunlight.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Z-02",
+      "letter": "Z",
+      "word": "Zoo",
+      "role": "Exploration",
+      "category": "place",
+      "style": "scene-photo",
+      "background": "natural",
+      "resolution": {
+        "width": 1024,
+        "height": 1024,
+        "source_width": 1024,
+        "source_height": 1024,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "ai-generated-suspected",
+      "file": "assets/Z/Z-02-zoo.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/7a/b3/73/7ab373aa0c5772e3f18125660cf16037.jpg",
+        "pinterest_pin_url": null,
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": null,
+        "search_query": null,
+        "retrieved": "2026-11-09",
+        "provided_by": "owner"
+      },
+      "rationale": "Zoo walkway with elephants and families; owner pick.",
+      "approval": {
+        "status": "owner-provided",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "replace-before-release",
+        "notes": "Same image I had flagged as likely AI in review; kept because owner chose it. Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": [
+        {
+          "replaced": "2026-11-09",
+          "previous_source": "https://i.pinimg.com/1200x/c8/49/95/c849956bee184ba14f1bd566af26eda4.jpg",
+          "reason": "Owner supplied a replacement"
+        }
+      ]
+    },
+    {
+      "id": "Z-03",
+      "letter": "Z",
+      "word": "Zipper",
+      "role": "Distinctive",
+      "category": "object",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "source_width": 800,
+        "source_height": 800,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Z/Z-03-zipper.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/42/69/5d/42695d8a22aa3607ef089ecad7530dd5.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShzlRC5ImPyPIZFYnlpYmDco7n77pXFx3g0ueTzZmS2OGtTT/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "zipper real photo white background",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Black metal zipper, half open, on white.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    },
+    {
+      "id": "Z-04",
+      "letter": "Z",
+      "word": "Zucchini",
+      "role": "Alternative",
+      "category": "food",
+      "style": "studio-photo",
+      "background": "white",
+      "resolution": {
+        "width": 700,
+        "height": 700,
+        "source_width": 700,
+        "source_height": 700,
+        "source_aspect": 1.0,
+        "native_square": true
+      },
+      "ai_check": "likely-real",
+      "file": "assets/Z/Z-04-zucchini.jpg",
+      "foundation": false,
+      "source": {
+        "pinterest_image_url": "https://i.pinimg.com/1200x/13/a7/48/13a748edd41b728e49c9c843045d1968.jpg",
+        "pinterest_pin_url": "https://www.pinterest.com/pin/e1_AfqPShx6zttKQNi1f0A3QE3cFd2Amko9bKwy71o29D6z97LFbI8_/",
+        "board_url": null,
+        "pinner": null,
+        "original_link": null,
+        "original_domain": "Uploaded by user",
+        "search_query": "zucchini photography",
+        "retrieved": "2026-11-09",
+        "provided_by": "curator"
+      },
+      "rationale": "Two zucchini with slices, top-down.",
+      "approval": {
+        "status": "curator-approved",
+        "date": "2026-11-09"
+      },
+      "rights": {
+        "status": "unverified",
+        "notes": "Sourced via Pinterest; original creator licence not verified."
+      },
+      "history": []
+    }
+  ]
+}
