@@ -1,10 +1,30 @@
 
 /**
  * Audio Service
- * Uses native Web Speech API for free, offline-capable text-to-speech.
+ * Plays pre-generated clips from /audio (works on TV browsers that have no
+ * speech engine) and falls back to the Web Speech API when a clip is missing.
  */
 
+// Must match slug() in scripts/generate-audio.mjs
+const slug = (t: string) => t.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+let currentClip: HTMLAudioElement | null = null;
+
 export const speak = (text: string) => {
+  if (currentClip) {
+    currentClip.pause();
+    currentClip = null;
+  }
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+
+  const clip = new Audio(`/audio/${slug(text)}.mp3`);
+  currentClip = clip;
+  clip.play().catch(() => {
+    if (currentClip === clip) speakWithSynthesis(text);
+  });
+};
+
+const speakWithSynthesis = (text: string) => {
   if (!('speechSynthesis' in window)) {
     console.warn("Speech synthesis not supported.");
     return;
